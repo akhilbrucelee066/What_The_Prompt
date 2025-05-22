@@ -4,4 +4,6 @@ This is the landing page for **WHAT THE PROMPT**, a community-driven hub for sha
 - Inspired by Reddit, Wikipedia, and Twitter
 
 
-> **WHAT THE PROMPT**: Building a bridge to AI literacy, one prompt at a time... by the community.. for the community.. to the community..
+> **WHAT THE PROMPT**: Building a bridge to AI literacy, one prompt at a time...
+
+- by the community.. for the community.. to the community..
